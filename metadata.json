@@ -1,0 +1,8 @@
+{
+  "name": "Remix Duyên: Căn Bếp Khởi Đầu",
+  "description": "Game nấu ăn 3D góc nhìn thứ nhất theo chân Duyên, cô gái 21 tuổi vừa tốt nghiệp và là Google Ambassador, khám phá đam mê ẩm thực tại căn bếp khởi đầu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
